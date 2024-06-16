@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#results {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+.result {
+    margin-bottom: 20px;
+    margin: 20px;
+}
+.result img {
+    max-width: 200px;
+    max-height: 200px;
+}
